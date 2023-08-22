@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ms-demo-front-door/static/css/main.22164a33.css",
-    "main.js": "/ms-demo-front-door/static/js/main.ef33be15.js",
+    "main.js": "/ms-demo-front-door/static/js/main.19a7e410.js",
     "static/media/NDP-logo-tagline-white.svg": "/ms-demo-front-door/static/media/NDP-logo-tagline-white.ade26c9b69edaa2b6646d9b282bccda2.svg",
     "index.html": "/ms-demo-front-door/index.html",
     "main.22164a33.css.map": "/ms-demo-front-door/static/css/main.22164a33.css.map",
-    "main.ef33be15.js.map": "/ms-demo-front-door/static/js/main.ef33be15.js.map"
+    "main.19a7e410.js.map": "/ms-demo-front-door/static/js/main.19a7e410.js.map"
   },
   "entrypoints": [
     "static/css/main.22164a33.css",
-    "static/js/main.ef33be15.js"
+    "static/js/main.19a7e410.js"
   ]
 }
